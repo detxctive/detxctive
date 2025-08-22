@@ -46,7 +46,7 @@
 
 <h3 align="center">🎯 Currently Working On</h3>
 <ul align="center">
-  <li>🔥 <strong>RainBot</strong> – The ultimate Discord bot loaded with moderation, fun tools, and an overall great experience.</li>
+  <li>🔥 <strong>numtrackr</strong> – The Ultimate VOIP Number Detector, consisting of a Database of over 100k Numbers </li>
   <li>🛡️ <strong>Lockdown</strong> – DDoS detection & protection platform using ML to stop attacks.</li>
   <li>🌐 <strong>AI Captcha Solver</strong> – An AI Captcha Solver using YOLO.</li>
 </ul>
