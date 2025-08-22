@@ -53,13 +53,6 @@
 
 <hr>
 
-<h3 align="center">✨ poke</h3>
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VrdnBrOGNzdTFubTd1ejF3dG83dWdnbDdjZHNwNHY5dm9pZjFnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/imoIuptU6lelW/giphy.gif" alt="Aesthetic Pool Pikachu" width="350" />
-</p>
-
-<hr>
-
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mo-chy&show_icons=true&theme=tokyonight&hide_border=true" alt="mochy's GitHub stats" />
