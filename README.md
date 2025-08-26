@@ -4,7 +4,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1b5707a2-3113-4dd1-a3d2-b3f39afcea96" alt="mochy glitch avatar" width="400"/>
+  <img src="[https://github.com/user-attachments/assets/1b5707a2-3113-4dd1-a3d2-b3f39afcea96](https://avatars.githubusercontent.com/u/201973889?v=4)" alt="mochy glitch avatar" width="400"/>
 </p>
 
 <hr>
