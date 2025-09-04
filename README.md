@@ -72,7 +72,7 @@
   <a href="https://discord.com/users/1319002930036211754">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:korokk@proton.me">
+  <a href="mailto: github-mochy@proton.me">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
