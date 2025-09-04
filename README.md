@@ -4,7 +4,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/201973889?v=4" width="200" />
+  <img src=["https://avatars.githubusercontent.com/u/201973889?v=4](https://i.imgur.com/nS0IJSS.jpeg)" width="200" />
 </p>
 
 <hr>
