@@ -4,7 +4,7 @@
 <hr>
 
 <p align="center">
-  <img src="[https://i.imgur.com/XXXXXXX.png](https://i.imgur.com/nS0IJSS.jpeg)" alt="mo-chy avatar" width="400"/>
+  <img src="[https://i.imgur.com/nS0IJSS.jpeg](https://i.imgur.com/nS0IJSS.jpeg)" alt="mo-chy avatar" width="400"/>
 </p>
 
 <hr>
