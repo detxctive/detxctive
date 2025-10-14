@@ -83,3 +83,5 @@
 <p align="center" style="font-style: italic;">
   I use Copilot for "debugging purposes only".
 </p>
+
+![](https://hit.yhype.me/github/profile?account_id=201973889)
