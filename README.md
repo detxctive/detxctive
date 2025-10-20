@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Mochy&fontSize=70&color=FFFFFF&gradient=A0E7E5,FEC8D8,FFD6A5&fontColor=FFFFFF" alt="Mochy Banner" />
   <br>
   <!-- Visitor Badge -->
-  <img src="https://api.visitorbadge.io/api/combined?path=mo-chy&countColor=%23FFD6A5&style=flat" alt="Visitor Badge" />
+  <img src="https://api.visitorbadge.io/api/combined?path=mo-chy&countColor=%B0B0B0&style=flat" alt="Visitor Badge" />
 </div>
 
 <div align="center" style="background: #1a1a1a; padding: 25px; border-radius: 15px; margin: 20px 0; color: #FFD6A5;">
