@@ -12,19 +12,20 @@
 </div>
 
 <div align="center" style="margin-bottom: 20px;">
-  <h2 style="color:#FF00FF;">Tech Stack</h2>
+  <h2 style="color:#FFB6C1;">Tech Stack</h2>
   <p>
-    <img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/C++-FF00FF?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/JavaScript-FF4500?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/HTML5-1E90FF?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-7CFC00?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/Bash-FF1493?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-    <img src="https://img.shields.io/badge/Git-00FFFF?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Linux-7CFC00?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Python-A0E7E5?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/C++-FEC8D8?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/JavaScript-FFD6A5?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/HTML5-FFADAD?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-CAFFBF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/Bash-BFD7EA?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+    <img src="https://img.shields.io/badge/Git-AFCBFF?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-D0B0FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Linux-BCEBCB?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
   </p>
 </div>
+
 
 <div align="center" style="background: #111; padding: 20px; border-radius: 12px; margin-bottom: 20px; color:#00FFFF;">
   <h2>Currently Working On</h2>
