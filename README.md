@@ -35,16 +35,15 @@
   </p>
 </div>
 
-<div align="center" style="margin-bottom: 20px;">
-  <h2 style="color:#FFD6A5;">GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=mo-chy&show_icons=true&theme=gruvbox_dark&hide_border=true&icon_color=A0E7E5&text_color=FFD6A5&title_color=FEC8D8" alt="Mochy's GitHub stats" />
-</div>
-
 <div align="center" style="background: #1a1a1a; padding:20px; border-radius:15px; margin-bottom: 20px; color:#BFD7EA;">
   <h2 style="color:#BFD7EA;">Cool Snake</h2>
   <img src="https://raw.githubusercontent.com/mo-chy/mo-chy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
 
+<div align="center" style="margin-bottom: 20px;">
+  <h2 style="color:#FFD6A5;">GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=mo-chy&show_icons=true&theme=gruvbox_dark&hide_border=true&icon_color=%23A0E7E5&text_color=%23FFD6A5&title_color=%23FEC8D8" alt="Mochy's GitHub stats" />
+</div>
 
 <div align="center" style="margin-bottom:30px;">
   <h2 style="color:#FFADAD;">Connect with Me</h2>
