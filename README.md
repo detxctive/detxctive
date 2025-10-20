@@ -36,16 +36,6 @@
 <img src="https://raw.githubusercontent.com/mo-chy/mo-chy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
 
-<div align="center"> <h2>Contact Me</h2></div>
-<div align="center">
-<a href="https://discord.com/users/1319002930036211754">
-<img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="mailto:github-mochy@proton.me">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</div>
-
 <div align="center"> <h2>Recent Activity</h2></div>
 <div align="center">
 ⦁ Created a new repository [numtrackr](https://github.com/mo-chy/numtrackr) – 2025-08-04<br>
