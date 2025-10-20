@@ -42,8 +42,9 @@
 
 <div align="center" style="margin-bottom: 20px;">
   <h2 style="color:#FFD6A5;">GitHub Stats</h2>
-  <img src="https://github-stats.omsimos.com/user/mo-chy?theme=default&hide_border=true&count_private=true" alt="Mochy's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mo-chy&show_icons=true&theme=tokyonight&count_private=true" alt="Mochy's GitHub stats" />
 </div>
+
 
 <div align="center" style="margin-bottom:30px;">
   <h2 style="color:#FFADAD;">Connect with Me</h2>
