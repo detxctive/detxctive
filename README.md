@@ -1,60 +1,60 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Mochy&textBg=false&reversal=false&section=header&fontColor=FFFFFF" alt="Mochy Banner" />
+  <!-- Capsule Banner with gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Mochy&fontSize=70&color=FFFFFF&gradient=00FFFF,FF00FF&fontColor=FFFFFF" alt="Mochy Banner" />
   <br>
-  <img src="https://api.visitorbadge.io/api/combined?path=mo-chy&countColor=%23263759" alt="Visitor Badge" />
+  <!-- Visitor Badge -->
+  <img src="https://api.visitorbadge.io/api/combined?path=mo-chy&countColor=%23FF00FF&style=flat" alt="Visitor Badge" />
 </div>
 
-<div align="center">
+<div align="center" style="background: linear-gradient(120deg, #0f2027, #203a43, #2c5364); padding: 25px; border-radius: 15px; margin: 20px 0; color: #FFFFFF;">
   <h2>About Me</h2>
-  <p>Hey! I'm Mochy 🚀, a Backend Developer, Bot Engineer, and AI Experimenter. Passionate about building tools, experimenting with AI, and improving digital security.</p>
+  <p>Hey! I'm Mochy 🚀, a Backend Developer, Bot Engineer, and AI Experimenter. I love building tools, experimenting with AI, and leveling up digital security to 1000%! 💻✨</p>
 </div>
 
-<div align="center">
-  <h2>Tech Stack</h2>
+<div align="center" style="margin-bottom: 20px;">
+  <h2 style="color:#FF00FF;">Tech Stack</h2>
   <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   </p>
 </div>
 
-<div align="center">
+<div align="center" style="background: #111; padding: 20px; border-radius: 12px; margin-bottom: 20px; color:#00FFFF;">
   <h2>Currently Working On</h2>
   <p>
-    ⦁ <strong>numtrackr</strong> – The Ultimate VOIP Number Detector, Database of over 100k numbers.<br>
-    ⦁ <strong>Lockdown</strong> – DDoS detection & protection platform using ML.<br>
-    ⦁ <strong>AI Captcha Solver</strong> – YOLO-based AI Captcha Solver.
+    ⦁ <strong>numtrackr</strong> – Ultimate VOIP Number Detector, 100k+ numbers 💥<br>
+    ⦁ <strong>Lockdown</strong> – DDoS protection platform with ML 🛡️<br>
+    ⦁ <strong>AI Captcha Solver</strong> – YOLO-powered AI Captcha ⚡
   </p>
 </div>
 
-<div align="center">
-  <h2>GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=mo-chy&show_icons=true&theme=tokyonight&hide_border=true" alt="Mochy's GitHub stats" />
+<div align="center" style="margin-bottom: 20px;">
+  <h2 style="color:#FF00FF;">GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=mo-chy&show_icons=true&theme=radical&hide_border=true" alt="Mochy's GitHub stats" />
 </div>
 
-<div align="center">
-  <h2>Cool Snake</h2>
-  <div style="background-color:#1e1e1e; padding:20px; border-radius:10px; display:inline-block;">
-    <img src="https://raw.githubusercontent.com/mo-chy/mo-chy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-  </div>
+<div align="center" style="background: #111; padding:20px; border-radius:15px; margin-bottom: 20px;">
+  <h2 style="color:#00FFFF;">Cool Snake</h2>
+  <img src="https://raw.githubusercontent.com/mo-chy/mo-chy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
 
-<div align="center">
+<div align="center" style="background: linear-gradient(120deg, #ff7eb9, #ff65a3, #ff3c91); padding:20px; border-radius:15px; margin-bottom:20px; color:#FFFFFF;">
   <h2>Recent Activity</h2>
   <p>
-    ⦁ Created a new repository <a href="https://github.com/mo-chy/numtrackr">numtrackr</a> – 2025-08-04<br>
-    ⦁ Created a new repository <a href="https://github.com/mo-chy/lockdown">Lockdown</a> – 2025-04-11<br>
-    ⦁ Updated project <a href="https://github.com/mo-chy/ai-captcha-solver">AI Captcha Solver</a> – 2025-04-04
+    ⦁ Created a new repository <a href="https://github.com/mo-chy/numtrackr" style="color:#00FFFF;">numtrackr</a> – 2025-08-04<br>
+    ⦁ Created a new repository <a href="https://github.com/mo-chy/lockdown" style="color:#00FFFF;">Lockdown</a> – 2025-04-11<br>
+    ⦁ Updated project <a href="https://github.com/mo-chy/ai-captcha-solver" style="color:#00FFFF;">AI Captcha Solver</a> – 2025-04-04
   </p>
 </div>
 
-<div align="center">
-  <h2>Connect with Me</h2>
+<div align="center" style="margin-bottom:30px;">
+  <h2 style="color:#FF00FF;">Connect with Me</h2>
   <p>
     <a href="https://github.com/mo-chy" target="_blank">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="GitHub"/>
