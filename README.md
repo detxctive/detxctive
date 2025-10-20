@@ -1,6 +1,7 @@
 <div align="center">
-  ![render](https://capsule-render.vercel.app/api?type=waving&height=300&text=Mochy&textBg=false&reversal=false&section=header&fontColor=FFFFFF)
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Mochy&textBg=false&reversal=false&section=header&fontColor=FFFFFF" alt="Mochy Banner" />
 </div>
+
 
 <div align="center">
   <h2>About Me</h2>
