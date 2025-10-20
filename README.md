@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Mochy&textBg=false&reversal=false&section=header&fontColor=FFFFFF" alt="Mochy Banner" />
+  <br>
+  <img src="https://api.visitorbadge.io/api/combined?path=mo-chy&countColor=%23263759" alt="Visitor Badge" />
 </div>
-
 
 <div align="center">
   <h2>About Me</h2>
