@@ -58,13 +58,10 @@
 <a href="https://github.com/mo-chy" target="_blank">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" />
 </a>
-<a href="https://twitter.com/" target="_blank">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" />
-</a>
-<a href="https://linkedin.com/" target="_blank">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" />
-</a>
-<a href="https://www.discord.com/#" target="_blank">
+<a href="https://discord.com/users/1319002930036211754" target="_blank">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" />
+</a>
+<a href="mailto: github-mochy@proton.me" target="_blank">
+<img src="  https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail1.svg" />
 </a>
 </div>
