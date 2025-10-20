@@ -42,7 +42,7 @@
 
 <div align="center" style="margin-bottom: 20px;">
   <h2 style="color:#FFD6A5;">GitHub Stats</h2>
-  <img src="https://github-stats.omsimos.com/api?username=mo-chy&theme=gruvbox" alt="Mochy's GitHub stats" />
+  <img src="https://github-stats.omsimos.com/user/mo-chy?theme=default&hide_border=true&count_private=true" alt="Mochy's GitHub stats" />
 </div>
 
 <div align="center" style="margin-bottom:30px;">
