@@ -7,9 +7,6 @@
   <img src="https://i.imgur.com/nS0IJSS.jpeg" alt="mo-chy avatar" width="400"/>
 </p>
 
-
-<hr>
-
 <h3 align="center">Languages I know:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
