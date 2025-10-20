@@ -45,14 +45,6 @@
   <img src="https://raw.githubusercontent.com/mo-chy/mo-chy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
 
-<div align="center" style="background: #1a1a1a; padding:20px; border-radius:15px; margin-bottom:20px; color:#FFD6A5;">
-  <h2 style="color:#FFD6A5;">Recent Activity</h2>
-  <p>
-    ⦁ Created a new repository <a href="https://github.com/mo-chy/numtrackr" style="color:#A0E7E5;">numtrackr</a> – 2025-08-04<br>
-    ⦁ Created a new repository <a href="https://github.com/mo-chy/lockdown" style="color:#FFD6A5;">Lockdown</a> – 2025-04-11<br>
-    ⦁ Updated project <a href="https://github.com/mo-chy/ai-captcha-solver" style="color:#FEC8D8;">AI Captcha Solver</a> – 2025-04-04
-  </p>
-</div>
 
 <div align="center" style="margin-bottom:30px;">
   <h2 style="color:#FFADAD;">Connect with Me</h2>
