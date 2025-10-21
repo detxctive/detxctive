@@ -14,17 +14,36 @@
 <div align="center" style="margin-bottom: 20px;">
   <h2 style="color:#A0E7E5;">Tech Stack</h2>
   <p>
-    <img src="https://img.shields.io/badge/Python-A0E7E5?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/C++-FEC8D8?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/JavaScript-FFD6A5?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/HTML5-FFADAD?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-CAFFBF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/Bash-BFD7EA?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-    <img src="https://img.shields.io/badge/Git-AFCBFF?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-D0B0FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Linux-BCEBCB?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Python-A0E7E5?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    </a>
+    <a href="https://isocpp.org/" target="_blank">
+      <img src="https://img.shields.io/badge/C++-FEC8D8?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://img.shields.io/badge/JavaScript-FFD6A5?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
+      <img src="https://img.shields.io/badge/HTML5-FFADAD?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+      <img src="https://img.shields.io/badge/CSS3-CAFFBF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
+      <img src="https://img.shields.io/badge/Bash-BFD7EA?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Git-AFCBFF?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    </a>
+    <a href="https://github.com/" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-D0B0FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.kernel.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Linux-BCEBCB?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+    </a>
   </p>
 </div>
+
 
 <div align="center" style="background: #1a1a1a; padding: 20px; border-radius: 12px; margin-bottom: 20px; color:#CAFFBF;">
   <h2 style="color:#CAFFBF;">Currently Working On</h2>
