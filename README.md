@@ -8,7 +8,7 @@
 
 <div align="center" style="background: #1a1a1a; padding: 25px; border-radius: 15px; margin: 20px 0; color: #FFD6A5;">
   <h2 style="color:#FFD6A5;">About Me</h2>
-  <p>Hey! I'm Mochy 🚀, a Backend Developer, Bot Engineer, and AI Experimenter. I love building tools, experimenting with AI, and leveling up digital security to 1000%! 💻✨</p>
+  <p>Hey! I'm Mochy 🚀, a Backend Developer, Bot Engineer, and AI Experimenter. I love building tools, experimenting with AI, and trying to do CyberSec!</p>
 </div>
 
 <div align="center" style="margin-bottom: 20px;">
