@@ -1,17 +1,26 @@
 <div align="center">
-  <!-- Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Mochy&fontSize=70&color=FFFFFF&gradient=A0E7E5,FEC8D8,FFD6A5&fontColor=FFFFFF" alt="Mochy Banner" />
 
-  <!-- Visitor Badge -->
-  <br>
-  <img src="https://api.visitorbadge.io/api/combined?path=mo-chy&countColor=%23B0B0B0&style=flat" alt="Visitor Badge" />
+# mochy
+
 </div>
 
-<!-- About Me -->
-<div align="center" style="background:#1a1a1a; padding:30px; border-radius:15px; margin:30px 0; color:#FFD6A5; max-width:800px;">
-  <h2 style="color:#FFD6A5;">About Me</h2>
-  <p>Hey! I'm <strong>Mochy</strong>, a Backend Developer, Bot Engineer & AI Experimenter. I love building tools, experimenting with AI, and dabbling in CyberSec. 🚀</p>
-</div>
+<table align="center" border="0" style="border: none;">
+  <tr>
+    <th colspan="2" style="text-align: center;">About me</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; text-align: left;">
+      <ul>
+        <li>i don't finish projects</li>
+        <li>i got lots of priv repos/li>
+        <li>🍪</li>
+      </ul>
+    </td>
+    <td style="vertical-align: middle;">
+      <img src="https://i.imgur.com/q7g0WMg.jpeg" width="100"/>
+    </td>
+  </tr>
+</table>
 
 <!-- Tech Stack -->
 <div align="center" style="margin-bottom:30px;">
@@ -40,6 +49,9 @@
     <a href="https://www.cloudflare.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare3.svg" /></a>
     <a href="https://www.nginx.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx3.svg" /></a>
     <a href="https://code.visualstudio.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" /></a>
+    <a href="https://www.notion.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg" /></a>
+    <a href="https://www.arduino.cc/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino3.svg" /></a>
+    <a href="https://www.blender.org/"><img src=" 	https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender3.svg" /></a>
   </div>
 </div>
 
