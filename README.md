@@ -69,7 +69,7 @@
   <h2 style="color:#FFADAD;">Connect with Me</h2>
   <p>
     <a href="https://github.com/mo-chy" target="_blank">
-      <img src=""https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="GitHub"/>
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="GitHub"/>
     </a>
     <a href="https://discord.com/users/1319002930036211754" target="_blank">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" alt="Discord"/>
