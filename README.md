@@ -9,9 +9,9 @@
   <tr>
     <td style="vertical-align:top; text-align:left; padding-right:20px;">
       <ul style="line-height:1.6;">
-        <li>i don't finish projects 😅</li>
-        <li>i got more private repos than braincells 🤯</li>
-        <li>🍪 cookie enthusiast</li>
+        <li>i don't finish projects </li>
+        <li>i got more private repos than braincells </li>
+        <li>🍪cookies luver</li>
       </ul>
     </td>
     <td style="vertical-align:middle; text-align:center;">
