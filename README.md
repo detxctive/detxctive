@@ -17,9 +17,6 @@
     <a href="https://www.python.org/" target="_blank">
       <img src="https://img.shields.io/badge/Python-A0E7E5?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     </a>
-    <a href="https://isocpp.org/" target="_blank">
-      <img src="https://img.shields.io/badge/C++-FEC8D8?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://img.shields.io/badge/JavaScript-FFD6A5?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
     </a>
