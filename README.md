@@ -8,39 +8,47 @@
 
 <div align="center" style="background: #1a1a1a; padding: 25px; border-radius: 15px; margin: 20px 0; color: #FFD6A5;">
   <h2 style="color:#FFD6A5;">About Me</h2>
-  <p>Hey! I'm Mochy 🚀, a Backend Developer, Bot Engineer, and AI Experimenter. I love building tools, experimenting with AI, and trying to do CyberSec!</p>
+  <p>Hey! I'm Mochy, a Backend Developer, Bot Engineer, and AI Experimenter. I love building tools, experimenting with AI, and trying to do CyberSec!</p>
 </div>
 
 <div align="center" style="margin-bottom: 20px;">
   <h2 style="color:#A0E7E5;">Tech Stack</h2>
   <p>
     <a href="https://www.python.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Python-A0E7E5?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src=" 	https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Python"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://img.shields.io/badge/JavaScript-FFD6A5?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+      <img src=" 	https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
-      <img src="https://img.shields.io/badge/HTML5-FFADAD?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" alt="HTML5"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-      <img src="https://img.shields.io/badge/CSS3-CAFFBF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
-      <img src="https://img.shields.io/badge/Bash-BFD7EA?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+    <a href="https://tailwindcss.com/" target="_blank">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg" alt="CSS3"/>
     </a>
     <a href="https://git-scm.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Git-AFCBFF?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg" alt="Git"/>
     </a>
     <a href="https://github.com/" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-D0B0FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="GitHub"/>
     </a>
     <a href="https://www.kernel.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Linux-BCEBCB?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg" alt="Linux"/>
     </a>
   </p>
 </div>
 
+<hr>
+
+<p align="center">
+  <a href="https://www.microsoft.com/windows"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows113.svg" /></a>
+  <a href="https://www.android.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg" /></a>
+  <a href="https://www.debian.org"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian3.svg" /></a>
+  <a href="https://ubuntu.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg" /></a><br>
+  <a href="https://www.cloudflare.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare3.svg" /></a>
+  <a href="https://www.nginx.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx3.svg" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" /></a>
+</p>
 
 <div align="center" style="background: #1a1a1a; padding: 20px; border-radius: 12px; margin-bottom: 20px; color:#CAFFBF;">
   <h2 style="color:#CAFFBF;">Currently Working On</h2>
