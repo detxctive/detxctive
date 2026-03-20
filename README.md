@@ -43,28 +43,6 @@
   </div>
 </div>
 
-<!-- Currently Working On -->
-<div align="center" style="background:#1a1a1a; padding:25px; border-radius:15px; margin-bottom:30px; color:#CAFFBF; max-width:800px;">
-  <h2 style="color:#CAFFBF;">Currently Working On</h2>
-  <ul style="text-align:left; max-width:500px; margin:auto; line-height:1.6;">
-    <li><strong>numtrackr</strong> – Ultimate VOIP Number Detector, 100k+ numbers 💥</li>
-    <li><strong>Lockdown</strong> – DDoS protection platform with ML 🛡️</li>
-    <li><strong>AI Captcha Solver</strong> – YOLO-powered AI Captcha ⚡</li>
-  </ul>
-</div>
-
-<!-- GitHub Snake -->
-<div align="center" style="background:#1a1a1a; padding:20px; border-radius:12px; margin-bottom:30px; color:#BFD7EA;">
-  <h2 style="color:#BFD7EA;">Cool Snake</h2>
-  <img src="https://raw.githubusercontent.com/mo-chy/mo-chy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</div>
-
-<!-- GitHub Stats -->
-<div align="center" style="margin-bottom:30px;">
-  <h2 style="color:#FFD6A5;">GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=mo-chy&show_icons=true&theme=tokyonight&count_private=true" alt="Mochy's GitHub stats" />
-</div>
-
 <!-- Connect -->
 <div align="center" style="margin-bottom:30px;">
   <h2 style="color:#FFADAD;">Connect with Me</h2>
