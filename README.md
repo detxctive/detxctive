@@ -69,13 +69,13 @@
   <h2 style="color:#FFADAD;">Connect with Me</h2>
   <p>
     <a href="https://github.com/mo-chy" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-D0B0FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src=""https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="GitHub"/>
     </a>
     <a href="https://discord.com/users/1319002930036211754" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-BFD7EA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" alt="Discord"/>
     </a>
     <a href="mailto:github-mochy@proton.me" target="_blank">
-      <img src="https://img.shields.io/badge/Email-FFD6A5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt="Email"/>
     </a>
   </p>
 </div>
