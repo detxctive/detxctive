@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="margin-bottom:10px;">mochy</h1>
+  <h1 style="margin-bottom:10px;">detxctive</h1>
 </div>
 
 <table align="center" border="0" style="border:none; max-width:600px; margin-top:20px;">
@@ -56,8 +56,8 @@
 <div align="center" style="margin-bottom:40px;">
   <h2 style="color:#FFADAD; margin-bottom:15px;">Connect with Me</h2>
   <div style="display:flex; justify-content:center; gap:15px;">
-    <a href="https://github.com/mo-chy" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="GitHub"/></a>
+    <a href="https://github.com/detxctive" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="GitHub"/></a>
     <a href="https://discord.com/users/1319002930036211754" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" alt="Discord"/></a>
-    <a href="mailto:github-mochy@proton.me" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt="Email"/></a>
+    <a href="mailto:github-mochye@proton.me" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt="Email"/></a>
   </div>
 </div>
