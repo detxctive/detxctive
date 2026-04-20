@@ -15,7 +15,7 @@
       </ul>
     </td>
     <td style="vertical-align:middle; text-align:center;">
-      <img src="avatars.githubusercontent.com/u/201973889?v=4" width="120" style="border-radius:15px;"/>
+      <img src="http://avatars.githubusercontent.com/u/201973889?v=4" width="120" style="border-radius:15px;"/>
     </td>
   </tr>
 </table>
