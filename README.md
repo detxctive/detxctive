@@ -58,6 +58,6 @@
   <div style="display:flex; justify-content:center; gap:15px;">
     <a href="https://github.com/detxctive" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="GitHub"/></a>
     <a href="https://discord.com/users/1319002930036211754" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" alt="Discord"/></a>
-    <a href="mailto:github-mochye@proton.me" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt="Email"/></a>
+    <a href="mailto:detxctive@airmail.cc" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt="Email"/></a>
   </div>
 </div>
